@@ -1,3 +1,6 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+License addendum - https://github.com/R2AKT/Stepper/blob/main/Addendum.txt
+# Stepper
 Debug module. For connecting to the CPU_8080 processor board - https://github.com/R2AKT/CPU_8080.
 
 Allows you to execute the program in step-by-step mode, displaying the states of the address and data buses.
