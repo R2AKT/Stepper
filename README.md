@@ -3,7 +3,7 @@ License addendum - https://github.com/R2AKT/Stepper/blob/main/Addendum.txt
 # Stepper
 <img src="Stepper_top.png">
 
-Debug module. For connecting to the CPU_8080 processor board - https://github.com/R2AKT/CPU_8080.
+Debug module. For Mega-80 (Mega-580) DIY 8-bit micro-computer - https://github.com/R2AKT/Mega-80.
 
 Allows you to execute the program in step-by-step mode, displaying the states of the address and data buses.
 Using the boot module, you can read and write data from/to memory - https://github.com/R2AKT/8080-5-CI.
