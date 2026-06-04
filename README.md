@@ -10,7 +10,7 @@ Using the boot module, you can read and write data from/to memory - https://gith
 
 Status: tested.
 
-Модуль отладки. Для подключения к процессорной плате CPU_8080 - https://github.com/R2AKT/CPU_8080.
+Модуль отладки. Для самодельной 8-битной микро-ЭВМ - https://github.com/R2AKT/Mega-80.
 
 Позволяет выполнять программу в пошаговом режиме, с отображением состояний шины адреса и данных.
 С помощью модуля загрузки позволяет считывать и записывать данные из/в память - https://github.com/R2AKT/8080-5-CI.
